@@ -10,6 +10,6 @@ Initially the CNN scripts (model_timeseries.py, and model_image.py) are used to 
 Once the predictions have been stored, the main.py script is used to read the dictionairies, and to perform the next seps of clustering (K-means) and Fuzzy Cognitive Map Construction. 
 Finally the decision-making is performed. 
 
-Replace lines iun the code custom containing data paths with your own data to use this package. 
+Replace lines in the code custom containing data paths with your own data to use this package. 
 
 
