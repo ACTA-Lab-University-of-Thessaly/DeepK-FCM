@@ -25,7 +25,7 @@ import pickle
 from similarities import *
 from preprocessing import *
 from fcm_libr import *
-from fcm_pso import *
+# from fcm_pso import *
 
 def save_dic_to_pickle(dic,path, dataset_name):
         with open(os.path.join(path, 'saved_dictionary_{}.pkl'.format(dataset_name)), 'wb') as f:
